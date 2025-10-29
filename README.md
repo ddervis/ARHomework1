@@ -1,7 +1,7 @@
 **Video Files and Placement**
 
 Due to GitHub file size limits, the original .mp4 files are hosted externally on Google Drive.  
-To run the project correctly in Unity, please download each video from the links below and place them in the following folder:
+To run the project correctly in Unity, please download each video from the links below and place them in the following folder.
 
 
 Each file name **must exactly match** the name below (case-sensitive):
