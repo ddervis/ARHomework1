@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="worldmap" size="100.000000 80.812500" />
+  </Tracking>
+</QCARConfig>
